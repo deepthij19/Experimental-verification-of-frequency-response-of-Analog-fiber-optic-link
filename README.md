@@ -62,17 +62,15 @@ Fiber optic links can transmit both digital and analog signals. A fiber optic li
 
 ## Tabulation
 
-| Frequency (Hz) | Input Amplitude (Vi) | Output Amplitude (Vo) | Gain (Vo/Vi) | Gain (dB) |
-|----------------|-----------------------|------------------------|--------------|-----------|
-|                |                       |                        |              |           |
+<img width="870" height="1280" alt="image" src="https://github.com/user-attachments/assets/fe6a624c-82b2-41dd-8d54-cc1502dd439d" />
 
----
 
 ## Model Graph
 - Plot **Gain (dB)** vs. **Frequency (Hz)**.  
 - Identify the **3 dB down point** to determine bandwidth.  
 
----
+<img width="1280" height="985" alt="image" src="https://github.com/user-attachments/assets/2a0b080b-cf37-47bc-9a42-7643420eaeca" />
+
 
 ## Result
 The frequency response of the phototransistor detector was studied. The 3 dB bandwidth was determined from the gain vs. frequency plot for both 660nm and 950nm fiber analog links.
